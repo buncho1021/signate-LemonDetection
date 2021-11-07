@@ -1,2 +1,2 @@
 # signate-LemonDetection
-Result: public 6th private 19th
+Result: public 6th/783
